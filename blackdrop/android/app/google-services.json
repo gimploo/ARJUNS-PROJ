@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32810872252",
+    "project_id": "blackdrop-21d1d",
+    "storage_bucket": "blackdrop-21d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32810872252:android:f6d446efa1d3f819e7cfb9",
+        "android_client_info": {
+          "package_name": "com.example.blackdrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6r5QsAFE1FKMND0ed8udla5zfiYxFn1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
